@@ -10,9 +10,9 @@
 
 ## Code Problems
 
-1. Write a function named `countMultiplesOfTwoAndFive` that takes in an integer argument that returns a count of the numbers that are multiples of two and five. 
+1. Write a function named `countDoubleDigitNumbers` that takes in an integer argument that returns a count of the numbers that are "double digits"(multiples of 11) from  1 to (and including) 1000. 
 ```
-countMultiplesOfTwoAndFive(40) //returns 4 
+countDoubleDigitNumbers(40) //returns 3 because 11, 22, and 33 are multiples of 11 
 ```
 
 2. Write a function named `sumOfNotThreeAndFive` that returns the sum of all numbers that are *not* multiples of 3 and multiples of 5 from 1 to 1000.
@@ -26,11 +26,3 @@ sumOfNotThreeAndFive() //returns 333666
 ```
 multiplesOfFourAndSix() // returns [20,40,50,60]
 ```
-
-4. Write a fucntion named `countMultiplesOfTwoAndThree` that takes in an array of integers and returns the number of integers in the array that are multiples of two and three. 
-```
-countMultiplesOfTwoAndThree([1,2,3,4,5,6,7,8,9,10]) // returns 3
-countMultiplesOfTwoAndThree([15,23,35,45,67]) // returns 4
-countMultiplesOfTwoAndThree([2,6,14]) // returns 2
-```
-
