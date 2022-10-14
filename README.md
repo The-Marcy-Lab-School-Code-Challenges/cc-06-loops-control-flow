@@ -23,14 +23,16 @@ sumOfNotThreeOrFive() //returns 266332
 
 
 ### Bonus 
-3. Write a function `multiplesOfThirty` that **returns an array** of all positive numbers from 1 to (and including)1000 if that number is a multiple of 30. 
+3. Write a function `multiplesOfThirty` that **returns an array** of all positive numbers from 1 to (and including) 1000 if that number is a multiple of 30. 
 ```
 multiplesOfThirty() // returns the following array:
+/*
 [
-   30,  60,  90, 120, 150, 180, 210,
+  30,  60,  90, 120, 150, 180, 210,
   240, 270, 300, 330, 360, 390, 420,
   450, 480, 510, 540, 570, 600, 630,
   660, 690, 720, 750, 780, 810, 840,
   870, 900, 930, 960, 990
 ]
+*/
 ```
