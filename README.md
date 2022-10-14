@@ -22,7 +22,14 @@ averageOfNotThreeAndFive() //returns 502.5 because 33165 divided by 66 is 502.5
 
 
 ### Bonus 
-3. Write a function `multiplesOfFiveAndSix` that **returns an array** of all positive numbers from 1 to 100 if that number is a multiple of 5 and a mutliple of 6. 
+3. Write a function `multiplesOfThirty` that **returns an array** of all positive numbers from 1 to (and including)1000 if that number is a multiple of 30. 
 ```
-multiplesOfFiveAndSix() // returns [ 30, 60, 90 ]
+multiplesOfThirty() // returns the following array:
+[
+   30,  60,  90, 120, 150, 180, 210,
+  240, 270, 300, 330, 360, 390, 420,
+  450, 480, 510, 540, 570, 600, 630,
+  660, 690, 720, 750, 780, 810, 840,
+  870, 900, 930, 960, 990
+]
 ```
