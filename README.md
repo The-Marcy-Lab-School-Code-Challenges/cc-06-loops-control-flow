@@ -11,12 +11,12 @@
 ## Code Problems
 
 1. Write a function named `countDoubleDigitNumbers` that takes in an integer argument that returns a **count** of the numbers that are "double digits"(multiples of 11) from  1 to (and including) the given argument. 
-```
+```js
 countDoubleDigitNumbers(44) //returns 4 because 11, 22, 33, and 44 are multiples of 11 
 ```
 
 2. Write a function named `sumOfNotThreeOrFive` that returns the sum of all numbers that are *not* multiples of 3 and  *not* multiples of 5 from 1 to (and including) 1000.
-```
+```js
 sumOfNotThreeOrFive() //returns 266332 
 // 1 + 2 + 4 + 7 + 8 + 11 + 13 + 14 + ...
 ```
