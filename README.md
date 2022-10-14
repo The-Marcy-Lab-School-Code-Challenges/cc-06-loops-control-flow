@@ -18,6 +18,7 @@ countDoubleDigitNumbers(44) //returns 4 because 11, 22, 33, and 44 are multiples
 2. Write a function named `sumOfNotThreeOrFive` that returns the sum of all numbers that are *not* multiples of 3 and  *not* multiples of 5 from 1 to (and including) 1000.
 ```
 sumOfNotThreeOrFive() //returns 266332 
+// 1 + 2 + 4 + 7 + 8 + 11 + 13 + 14 + ...
 ```
 
 
