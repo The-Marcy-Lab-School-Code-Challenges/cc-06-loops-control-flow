@@ -15,9 +15,9 @@
 countDoubleDigitNumbers(44) //returns 4 because 11, 22, 33, and 44 are multiples of 11 
 ```
 
-2. Write a function named `averageOfNotThreeAndFive` that returns the average of all numbers that are *not* multiples of 3 and  *not* multiples of 5 from 1 to (and including) 1000.
+2. Write a function named `sumOfNotThreeOrFive` that returns the sum of all numbers that are *not* multiples of 3 and  *not* multiples of 5 from 1 to (and including) 1000.
 ```
-averageOfNotThreeAndFive() //returns 502.5 because 33165 divided by 66 is 502.5
+sumOfNotThreeOrFive() //returns 33165 
 ```
 
 
