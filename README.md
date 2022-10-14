@@ -24,7 +24,7 @@ sumOfNotThreeOrFive() //returns 266332
 
 ### Bonus 
 3. Write a function `multiplesOfThirty` that **returns an array** of all positive numbers from 1 to (and including) 1000 if that number is a multiple of 30. 
-```
+```js
 multiplesOfThirty() // returns the following array:
 /*
 [
